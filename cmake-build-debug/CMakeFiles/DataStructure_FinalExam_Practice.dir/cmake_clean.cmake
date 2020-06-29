@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.obj"
+  "CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_PolynomialMultiply.c.obj"
   "DataStructure_FinalExam_Practice.exe"
   "DataStructure_FinalExam_Practice.exe.manifest"
   "DataStructure_FinalExam_Practice.pdb"

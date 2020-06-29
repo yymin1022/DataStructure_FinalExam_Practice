@@ -74,7 +74,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/Ch1_BinarySearch.c">
+		<Unit filename="D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/Ch2_PolynomialMultiply.c">
 			<Option target="DataStructure_FinalExam_Practice"/>
 		</Unit>
 		<Unit filename="D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/CMakeLists.txt">

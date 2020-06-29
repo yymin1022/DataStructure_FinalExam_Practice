@@ -122,32 +122,32 @@ DataStructure_FinalExam_Practice/fast:
 	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/build
 .PHONY : DataStructure_FinalExam_Practice/fast
 
-Ch1_BinarySearch.obj: Ch1_BinarySearch.c.obj
+Ch2_PolynomialMultiply.obj: Ch2_PolynomialMultiply.c.obj
 
-.PHONY : Ch1_BinarySearch.obj
+.PHONY : Ch2_PolynomialMultiply.obj
 
 # target to build an object file
-Ch1_BinarySearch.c.obj:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.obj
-.PHONY : Ch1_BinarySearch.c.obj
+Ch2_PolynomialMultiply.c.obj:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_PolynomialMultiply.c.obj
+.PHONY : Ch2_PolynomialMultiply.c.obj
 
-Ch1_BinarySearch.i: Ch1_BinarySearch.c.i
+Ch2_PolynomialMultiply.i: Ch2_PolynomialMultiply.c.i
 
-.PHONY : Ch1_BinarySearch.i
+.PHONY : Ch2_PolynomialMultiply.i
 
 # target to preprocess a source file
-Ch1_BinarySearch.c.i:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.i
-.PHONY : Ch1_BinarySearch.c.i
+Ch2_PolynomialMultiply.c.i:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_PolynomialMultiply.c.i
+.PHONY : Ch2_PolynomialMultiply.c.i
 
-Ch1_BinarySearch.s: Ch1_BinarySearch.c.s
+Ch2_PolynomialMultiply.s: Ch2_PolynomialMultiply.c.s
 
-.PHONY : Ch1_BinarySearch.s
+.PHONY : Ch2_PolynomialMultiply.s
 
 # target to generate assembly for a file
-Ch1_BinarySearch.c.s:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.s
-.PHONY : Ch1_BinarySearch.c.s
+Ch2_PolynomialMultiply.c.s:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_PolynomialMultiply.c.s
+.PHONY : Ch2_PolynomialMultiply.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... DataStructure_FinalExam_Practice
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ch1_BinarySearch.obj
-	@echo ... Ch1_BinarySearch.i
-	@echo ... Ch1_BinarySearch.s
+	@echo ... Ch2_PolynomialMultiply.obj
+	@echo ... Ch2_PolynomialMultiply.i
+	@echo ... Ch2_PolynomialMultiply.s
 .PHONY : help
 
 
