@@ -122,32 +122,32 @@ DataStructure_FinalExam_Practice/fast:
 	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/build
 .PHONY : DataStructure_FinalExam_Practice/fast
 
-Ch5_HeapSort.obj: Ch5_HeapSort.c.obj
+Ch1_SelectionSort.obj: Ch1_SelectionSort.c.obj
 
-.PHONY : Ch5_HeapSort.obj
+.PHONY : Ch1_SelectionSort.obj
 
 # target to build an object file
-Ch5_HeapSort.c.obj:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch5_HeapSort.c.obj
-.PHONY : Ch5_HeapSort.c.obj
+Ch1_SelectionSort.c.obj:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.obj
+.PHONY : Ch1_SelectionSort.c.obj
 
-Ch5_HeapSort.i: Ch5_HeapSort.c.i
+Ch1_SelectionSort.i: Ch1_SelectionSort.c.i
 
-.PHONY : Ch5_HeapSort.i
+.PHONY : Ch1_SelectionSort.i
 
 # target to preprocess a source file
-Ch5_HeapSort.c.i:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch5_HeapSort.c.i
-.PHONY : Ch5_HeapSort.c.i
+Ch1_SelectionSort.c.i:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.i
+.PHONY : Ch1_SelectionSort.c.i
 
-Ch5_HeapSort.s: Ch5_HeapSort.c.s
+Ch1_SelectionSort.s: Ch1_SelectionSort.c.s
 
-.PHONY : Ch5_HeapSort.s
+.PHONY : Ch1_SelectionSort.s
 
 # target to generate assembly for a file
-Ch5_HeapSort.c.s:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch5_HeapSort.c.s
-.PHONY : Ch5_HeapSort.c.s
+Ch1_SelectionSort.c.s:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.s
+.PHONY : Ch1_SelectionSort.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... DataStructure_FinalExam_Practice
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ch5_HeapSort.obj
-	@echo ... Ch5_HeapSort.i
-	@echo ... Ch5_HeapSort.s
+	@echo ... Ch1_SelectionSort.obj
+	@echo ... Ch1_SelectionSort.i
+	@echo ... Ch1_SelectionSort.s
 .PHONY : help
 
 

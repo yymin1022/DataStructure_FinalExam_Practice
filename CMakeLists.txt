@@ -3,4 +3,11 @@ project(DataStructure_FinalExam_Practice C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(DataStructure_FinalExam_Practice Ch5_HeapSort.c)
+add_executable(DataStructure_FinalExam_Practice Ch1_SelectionSort.c)
+#add_executable(DataStructure_FinalExam_Practice Ch1_BinarySearch.c)
+#add_executable(DataStructure_FinalExam_Practice Ch2_PolynomialMultiply.c)
+#add_executable(DataStructure_FinalExam_Practice Ch2_SparseMatrixTranspose.c)
+#add_executable(DataStructure_FinalExam_Practice Ch3_Maze.c)
+#add_executable(DataStructure_FinalExam_Practice Ch4_LinkedListInversion.c)
+#add_executable(DataStructure_FinalExam_Practice Ch4_CircularLinkedListInversion.c)
+#add_executable(DataStructure_FinalExam_Practice Ch5_HeapSort.c)
