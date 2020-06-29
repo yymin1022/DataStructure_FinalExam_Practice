@@ -122,32 +122,32 @@ DataStructure_FinalExam_Practice/fast:
 	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/build
 .PHONY : DataStructure_FinalExam_Practice/fast
 
-Ch3_Maze.obj: Ch3_Maze.c.obj
+Ch4_LinkedListInversion.obj: Ch4_LinkedListInversion.c.obj
 
-.PHONY : Ch3_Maze.obj
+.PHONY : Ch4_LinkedListInversion.obj
 
 # target to build an object file
-Ch3_Maze.c.obj:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch3_Maze.c.obj
-.PHONY : Ch3_Maze.c.obj
+Ch4_LinkedListInversion.c.obj:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_LinkedListInversion.c.obj
+.PHONY : Ch4_LinkedListInversion.c.obj
 
-Ch3_Maze.i: Ch3_Maze.c.i
+Ch4_LinkedListInversion.i: Ch4_LinkedListInversion.c.i
 
-.PHONY : Ch3_Maze.i
+.PHONY : Ch4_LinkedListInversion.i
 
 # target to preprocess a source file
-Ch3_Maze.c.i:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch3_Maze.c.i
-.PHONY : Ch3_Maze.c.i
+Ch4_LinkedListInversion.c.i:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_LinkedListInversion.c.i
+.PHONY : Ch4_LinkedListInversion.c.i
 
-Ch3_Maze.s: Ch3_Maze.c.s
+Ch4_LinkedListInversion.s: Ch4_LinkedListInversion.c.s
 
-.PHONY : Ch3_Maze.s
+.PHONY : Ch4_LinkedListInversion.s
 
 # target to generate assembly for a file
-Ch3_Maze.c.s:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch3_Maze.c.s
-.PHONY : Ch3_Maze.c.s
+Ch4_LinkedListInversion.c.s:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_LinkedListInversion.c.s
+.PHONY : Ch4_LinkedListInversion.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... DataStructure_FinalExam_Practice
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ch3_Maze.obj
-	@echo ... Ch3_Maze.i
-	@echo ... Ch3_Maze.s
+	@echo ... Ch4_LinkedListInversion.obj
+	@echo ... Ch4_LinkedListInversion.i
+	@echo ... Ch4_LinkedListInversion.s
 .PHONY : help
 
 

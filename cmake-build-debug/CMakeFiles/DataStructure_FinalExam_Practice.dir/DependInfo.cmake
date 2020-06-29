@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/Ch3_Maze.c" "D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/cmake-build-debug/CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch3_Maze.c.obj"
+  "D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/Ch4_LinkedListInversion.c" "D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/cmake-build-debug/CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_LinkedListInversion.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
