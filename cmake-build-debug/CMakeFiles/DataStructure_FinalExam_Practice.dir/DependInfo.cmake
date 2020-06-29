@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/Ch4_CircularLinkedListInversion.c" "D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/cmake-build-debug/CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_CircularLinkedListInversion.c.obj"
+  "D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/Ch5_HeapSort.c" "D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/cmake-build-debug/CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch5_HeapSort.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

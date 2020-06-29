@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_CircularLinkedListInversion.c.obj"
+  "CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch5_HeapSort.c.obj"
   "DataStructure_FinalExam_Practice.exe"
   "DataStructure_FinalExam_Practice.exe.manifest"
   "DataStructure_FinalExam_Practice.pdb"
