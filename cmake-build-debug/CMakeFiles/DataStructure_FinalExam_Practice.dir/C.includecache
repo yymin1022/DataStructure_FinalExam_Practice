@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/Ch2_SparseMatrixTranspose.c
+D:/AppProjects/C Projects/DataStructure_FinalExam_Practice/Ch3_Maze.c
 stdio.h
+-
+stdlib.h
 -
 

@@ -122,32 +122,32 @@ DataStructure_FinalExam_Practice/fast:
 	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/build
 .PHONY : DataStructure_FinalExam_Practice/fast
 
-Ch2_SparseMatrixTranspose.obj: Ch2_SparseMatrixTranspose.c.obj
+Ch3_Maze.obj: Ch3_Maze.c.obj
 
-.PHONY : Ch2_SparseMatrixTranspose.obj
+.PHONY : Ch3_Maze.obj
 
 # target to build an object file
-Ch2_SparseMatrixTranspose.c.obj:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_SparseMatrixTranspose.c.obj
-.PHONY : Ch2_SparseMatrixTranspose.c.obj
+Ch3_Maze.c.obj:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch3_Maze.c.obj
+.PHONY : Ch3_Maze.c.obj
 
-Ch2_SparseMatrixTranspose.i: Ch2_SparseMatrixTranspose.c.i
+Ch3_Maze.i: Ch3_Maze.c.i
 
-.PHONY : Ch2_SparseMatrixTranspose.i
+.PHONY : Ch3_Maze.i
 
 # target to preprocess a source file
-Ch2_SparseMatrixTranspose.c.i:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_SparseMatrixTranspose.c.i
-.PHONY : Ch2_SparseMatrixTranspose.c.i
+Ch3_Maze.c.i:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch3_Maze.c.i
+.PHONY : Ch3_Maze.c.i
 
-Ch2_SparseMatrixTranspose.s: Ch2_SparseMatrixTranspose.c.s
+Ch3_Maze.s: Ch3_Maze.c.s
 
-.PHONY : Ch2_SparseMatrixTranspose.s
+.PHONY : Ch3_Maze.s
 
 # target to generate assembly for a file
-Ch2_SparseMatrixTranspose.c.s:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_SparseMatrixTranspose.c.s
-.PHONY : Ch2_SparseMatrixTranspose.c.s
+Ch3_Maze.c.s:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch3_Maze.c.s
+.PHONY : Ch3_Maze.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... DataStructure_FinalExam_Practice
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ch2_SparseMatrixTranspose.obj
-	@echo ... Ch2_SparseMatrixTranspose.i
-	@echo ... Ch2_SparseMatrixTranspose.s
+	@echo ... Ch3_Maze.obj
+	@echo ... Ch3_Maze.i
+	@echo ... Ch3_Maze.s
 .PHONY : help
 
 
