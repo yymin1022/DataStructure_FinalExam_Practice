@@ -3,4 +3,4 @@ project(DataStructure_FinalExam_Practice C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(DataStructure_FinalExam_Practice Ch4_LinkedListInversion.c)
+add_executable(DataStructure_FinalExam_Practice Ch4_CircularLinkedListInversion.c)

@@ -122,32 +122,32 @@ DataStructure_FinalExam_Practice/fast:
 	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/build
 .PHONY : DataStructure_FinalExam_Practice/fast
 
-Ch4_LinkedListInversion.obj: Ch4_LinkedListInversion.c.obj
+Ch4_CircularLinkedListInversion.obj: Ch4_CircularLinkedListInversion.c.obj
 
-.PHONY : Ch4_LinkedListInversion.obj
+.PHONY : Ch4_CircularLinkedListInversion.obj
 
 # target to build an object file
-Ch4_LinkedListInversion.c.obj:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_LinkedListInversion.c.obj
-.PHONY : Ch4_LinkedListInversion.c.obj
+Ch4_CircularLinkedListInversion.c.obj:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_CircularLinkedListInversion.c.obj
+.PHONY : Ch4_CircularLinkedListInversion.c.obj
 
-Ch4_LinkedListInversion.i: Ch4_LinkedListInversion.c.i
+Ch4_CircularLinkedListInversion.i: Ch4_CircularLinkedListInversion.c.i
 
-.PHONY : Ch4_LinkedListInversion.i
+.PHONY : Ch4_CircularLinkedListInversion.i
 
 # target to preprocess a source file
-Ch4_LinkedListInversion.c.i:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_LinkedListInversion.c.i
-.PHONY : Ch4_LinkedListInversion.c.i
+Ch4_CircularLinkedListInversion.c.i:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_CircularLinkedListInversion.c.i
+.PHONY : Ch4_CircularLinkedListInversion.c.i
 
-Ch4_LinkedListInversion.s: Ch4_LinkedListInversion.c.s
+Ch4_CircularLinkedListInversion.s: Ch4_CircularLinkedListInversion.c.s
 
-.PHONY : Ch4_LinkedListInversion.s
+.PHONY : Ch4_CircularLinkedListInversion.s
 
 # target to generate assembly for a file
-Ch4_LinkedListInversion.c.s:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_LinkedListInversion.c.s
-.PHONY : Ch4_LinkedListInversion.c.s
+Ch4_CircularLinkedListInversion.c.s:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch4_CircularLinkedListInversion.c.s
+.PHONY : Ch4_CircularLinkedListInversion.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... DataStructure_FinalExam_Practice
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ch4_LinkedListInversion.obj
-	@echo ... Ch4_LinkedListInversion.i
-	@echo ... Ch4_LinkedListInversion.s
+	@echo ... Ch4_CircularLinkedListInversion.obj
+	@echo ... Ch4_CircularLinkedListInversion.i
+	@echo ... Ch4_CircularLinkedListInversion.s
 .PHONY : help
 
 
