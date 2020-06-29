@@ -122,32 +122,32 @@ DataStructure_FinalExam_Practice/fast:
 	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/build
 .PHONY : DataStructure_FinalExam_Practice/fast
 
-Ch1_SelectionSort.obj: Ch1_SelectionSort.c.obj
+Ch1_BinarySearch.obj: Ch1_BinarySearch.c.obj
 
-.PHONY : Ch1_SelectionSort.obj
+.PHONY : Ch1_BinarySearch.obj
 
 # target to build an object file
-Ch1_SelectionSort.c.obj:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.obj
-.PHONY : Ch1_SelectionSort.c.obj
+Ch1_BinarySearch.c.obj:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.obj
+.PHONY : Ch1_BinarySearch.c.obj
 
-Ch1_SelectionSort.i: Ch1_SelectionSort.c.i
+Ch1_BinarySearch.i: Ch1_BinarySearch.c.i
 
-.PHONY : Ch1_SelectionSort.i
+.PHONY : Ch1_BinarySearch.i
 
 # target to preprocess a source file
-Ch1_SelectionSort.c.i:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.i
-.PHONY : Ch1_SelectionSort.c.i
+Ch1_BinarySearch.c.i:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.i
+.PHONY : Ch1_BinarySearch.c.i
 
-Ch1_SelectionSort.s: Ch1_SelectionSort.c.s
+Ch1_BinarySearch.s: Ch1_BinarySearch.c.s
 
-.PHONY : Ch1_SelectionSort.s
+.PHONY : Ch1_BinarySearch.s
 
 # target to generate assembly for a file
-Ch1_SelectionSort.c.s:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.s
-.PHONY : Ch1_SelectionSort.c.s
+Ch1_BinarySearch.c.s:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.s
+.PHONY : Ch1_BinarySearch.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... DataStructure_FinalExam_Practice
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ch1_SelectionSort.obj
-	@echo ... Ch1_SelectionSort.i
-	@echo ... Ch1_SelectionSort.s
+	@echo ... Ch1_BinarySearch.obj
+	@echo ... Ch1_BinarySearch.i
+	@echo ... Ch1_BinarySearch.s
 .PHONY : help
 
 

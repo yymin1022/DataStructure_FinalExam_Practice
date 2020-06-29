@@ -56,27 +56,27 @@ include CMakeFiles/DataStructure_FinalExam_Practice.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/DataStructure_FinalExam_Practice.dir/flags.make
 
-CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.obj: CMakeFiles/DataStructure_FinalExam_Practice.dir/flags.make
-CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.obj: ../Ch1_SelectionSort.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\AppProjects\C Projects\DataStructure_FinalExam_Practice\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructure_FinalExam_Practice.dir\Ch1_SelectionSort.c.obj   -c "D:\AppProjects\C Projects\DataStructure_FinalExam_Practice\Ch1_SelectionSort.c"
+CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.obj: CMakeFiles/DataStructure_FinalExam_Practice.dir/flags.make
+CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.obj: ../Ch1_BinarySearch.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\AppProjects\C Projects\DataStructure_FinalExam_Practice\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\DataStructure_FinalExam_Practice.dir\Ch1_BinarySearch.c.obj   -c "D:\AppProjects\C Projects\DataStructure_FinalExam_Practice\Ch1_BinarySearch.c"
 
-CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\AppProjects\C Projects\DataStructure_FinalExam_Practice\Ch1_SelectionSort.c" > CMakeFiles\DataStructure_FinalExam_Practice.dir\Ch1_SelectionSort.c.i
+CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.i"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\AppProjects\C Projects\DataStructure_FinalExam_Practice\Ch1_BinarySearch.c" > CMakeFiles\DataStructure_FinalExam_Practice.dir\Ch1_BinarySearch.c.i
 
-CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\AppProjects\C Projects\DataStructure_FinalExam_Practice\Ch1_SelectionSort.c" -o CMakeFiles\DataStructure_FinalExam_Practice.dir\Ch1_SelectionSort.c.s
+CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.s"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\AppProjects\C Projects\DataStructure_FinalExam_Practice\Ch1_BinarySearch.c" -o CMakeFiles\DataStructure_FinalExam_Practice.dir\Ch1_BinarySearch.c.s
 
 # Object files for target DataStructure_FinalExam_Practice
 DataStructure_FinalExam_Practice_OBJECTS = \
-"CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.obj"
+"CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.obj"
 
 # External object files for target DataStructure_FinalExam_Practice
 DataStructure_FinalExam_Practice_EXTERNAL_OBJECTS =
 
-DataStructure_FinalExam_Practice.exe: CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.obj
+DataStructure_FinalExam_Practice.exe: CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_BinarySearch.c.obj
 DataStructure_FinalExam_Practice.exe: CMakeFiles/DataStructure_FinalExam_Practice.dir/build.make
 DataStructure_FinalExam_Practice.exe: CMakeFiles/DataStructure_FinalExam_Practice.dir/linklibs.rsp
 DataStructure_FinalExam_Practice.exe: CMakeFiles/DataStructure_FinalExam_Practice.dir/objects1.rsp
