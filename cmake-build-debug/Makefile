@@ -122,32 +122,32 @@ DataStructure_FinalExam_Practice/fast:
 	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/build
 .PHONY : DataStructure_FinalExam_Practice/fast
 
-Ch2_PolynomialMultiply.obj: Ch2_PolynomialMultiply.c.obj
+Ch2_SparseMatrixTranspose.obj: Ch2_SparseMatrixTranspose.c.obj
 
-.PHONY : Ch2_PolynomialMultiply.obj
+.PHONY : Ch2_SparseMatrixTranspose.obj
 
 # target to build an object file
-Ch2_PolynomialMultiply.c.obj:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_PolynomialMultiply.c.obj
-.PHONY : Ch2_PolynomialMultiply.c.obj
+Ch2_SparseMatrixTranspose.c.obj:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_SparseMatrixTranspose.c.obj
+.PHONY : Ch2_SparseMatrixTranspose.c.obj
 
-Ch2_PolynomialMultiply.i: Ch2_PolynomialMultiply.c.i
+Ch2_SparseMatrixTranspose.i: Ch2_SparseMatrixTranspose.c.i
 
-.PHONY : Ch2_PolynomialMultiply.i
+.PHONY : Ch2_SparseMatrixTranspose.i
 
 # target to preprocess a source file
-Ch2_PolynomialMultiply.c.i:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_PolynomialMultiply.c.i
-.PHONY : Ch2_PolynomialMultiply.c.i
+Ch2_SparseMatrixTranspose.c.i:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_SparseMatrixTranspose.c.i
+.PHONY : Ch2_SparseMatrixTranspose.c.i
 
-Ch2_PolynomialMultiply.s: Ch2_PolynomialMultiply.c.s
+Ch2_SparseMatrixTranspose.s: Ch2_SparseMatrixTranspose.c.s
 
-.PHONY : Ch2_PolynomialMultiply.s
+.PHONY : Ch2_SparseMatrixTranspose.s
 
 # target to generate assembly for a file
-Ch2_PolynomialMultiply.c.s:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_PolynomialMultiply.c.s
-.PHONY : Ch2_PolynomialMultiply.c.s
+Ch2_SparseMatrixTranspose.c.s:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch2_SparseMatrixTranspose.c.s
+.PHONY : Ch2_SparseMatrixTranspose.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... DataStructure_FinalExam_Practice
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ch2_PolynomialMultiply.obj
-	@echo ... Ch2_PolynomialMultiply.i
-	@echo ... Ch2_PolynomialMultiply.s
+	@echo ... Ch2_SparseMatrixTranspose.obj
+	@echo ... Ch2_SparseMatrixTranspose.i
+	@echo ... Ch2_SparseMatrixTranspose.s
 .PHONY : help
 
 
