@@ -122,32 +122,32 @@ DataStructure_FinalExam_Practice/fast:
 	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/build
 .PHONY : DataStructure_FinalExam_Practice/fast
 
-main.obj: main.c.obj
+Ch1_SelectionSort.obj: Ch1_SelectionSort.c.obj
 
-.PHONY : main.obj
+.PHONY : Ch1_SelectionSort.obj
 
 # target to build an object file
-main.c.obj:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/main.c.obj
-.PHONY : main.c.obj
+Ch1_SelectionSort.c.obj:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.obj
+.PHONY : Ch1_SelectionSort.c.obj
 
-main.i: main.c.i
+Ch1_SelectionSort.i: Ch1_SelectionSort.c.i
 
-.PHONY : main.i
+.PHONY : Ch1_SelectionSort.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/main.c.i
-.PHONY : main.c.i
+Ch1_SelectionSort.c.i:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.i
+.PHONY : Ch1_SelectionSort.c.i
 
-main.s: main.c.s
+Ch1_SelectionSort.s: Ch1_SelectionSort.c.s
 
-.PHONY : main.s
+.PHONY : Ch1_SelectionSort.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/main.c.s
-.PHONY : main.c.s
+Ch1_SelectionSort.c.s:
+	$(MAKE) -f CMakeFiles\DataStructure_FinalExam_Practice.dir\build.make CMakeFiles/DataStructure_FinalExam_Practice.dir/Ch1_SelectionSort.c.s
+.PHONY : Ch1_SelectionSort.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... DataStructure_FinalExam_Practice
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... Ch1_SelectionSort.obj
+	@echo ... Ch1_SelectionSort.i
+	@echo ... Ch1_SelectionSort.s
 .PHONY : help
 
 
